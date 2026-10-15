@@ -1,0 +1,10 @@
+{
+  "include": ["tsconfig.app.json", "tsconfig.node.json"],
+  "compilerOptions": {
+    "ignoreDeprecations": "6.0",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}

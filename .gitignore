@@ -1,0 +1,19 @@
+# Dépendances
+node_modules
+.pnpm-debug.log*
+
+# Build
+dist
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/settings.json
+.idea
+
+# OS
+.DS_Store
+*.log
