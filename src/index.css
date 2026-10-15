@@ -6,13 +6,6 @@
 
 body {
   background-color: #fff;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-}
-
-button {
-  cursor: pointer;
 }
 
 .kommit-container {
@@ -26,7 +19,6 @@ button {
 .kommit-title {
   font-size: 3rem;
   font-weight: bold;
-  color: #000;
   margin-bottom: 0.5rem;
 }
 
